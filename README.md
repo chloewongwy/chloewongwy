@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Chloe Wong 👋
 
 <!--
 **urnotchloewong/urnotchloewong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I'm 2025 graduate of @PolyU Computing
+- 💡 Passionate about **UX/UI Design** & **Web Development**
+- 📚 Currently exploring **Machine Learning** & **Computer Vision**
+- 👉 Feel Free to check my 🌐[personal website](chloewongwy.me) and 💼[LinkedIn](https://www.linkedin.com/in/chloewongwy) 
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloewongwy&layout=compact&theme=dark" alt="Most Used Languages">
