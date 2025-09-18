@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 📚 Currently exploring **Machine Learning** & **Computer Vision**
 - 👉 Feel Free to check my 🌐[personal website](https://www.chloewongwy.me/) and 💼[LinkedIn](https://www.linkedin.com/in/chloewongwy) 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloewongwy&layout=compact&theme=dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloewongwy&layout=compact&theme=dark" alt="Most Used Languages">
