@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🎓 I'm 2025 graduate of @PolyU Computing
 - 💡 Passionate about **UX/UI Design** & **Web Development**
 - 📚 Currently exploring **Machine Learning** & **Computer Vision**
-- 👉 Feel Free to check my 🌐[personal website](https://www.chloewongwy.me/) and 💼[LinkedIn](https://www.linkedin.com/in/chloewongwy) 
+- 👉 Feel Free to check my 🌐[personal website](https://www.chloewongwy.me/), 💼[LinkedIn](https://www.linkedin.com/in/chloewongwy) and 🎨[behance](https://www.behance.net/chloewongwy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloewongwy&layout=compact&theme=dark)
